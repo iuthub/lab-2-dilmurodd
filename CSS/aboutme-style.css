@@ -1,0 +1,26 @@
+
+
+html, body {
+	margin: 0;
+
+}
+div.container {
+	width: 1140px;
+	margin: 50px auto;
+}
+div.line {
+	border: 0;
+	border-bottom: 1px solid silver;
+}
+
+.img11 { 
+	width: 400px;
+	height: 400px;
+	margin-right: 100px;
+	margin-left: 50px;
+
+}.img12 { 
+	width: 400px;
+	height: 400px;
+
+}
